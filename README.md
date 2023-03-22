@@ -7,7 +7,12 @@ This is a description of the code for quick reference.
 	ASI imaging MS-2000 optical stage
 	A microprobe arm
 	A massive Anorad linear stage to hold optical path
-	A very fast arduino
+	Thorlabs IR sensors
+	Ekspla BaF2 lenses, gold mirrors
+	Thorlabs and Newport optical parts
+	HGH CRN1350 Blackbody
+	SR830 Lock-in Amplifier
+	A teensy 4.0 microcontroller
 	Custom 3D printed hardware
 
 -= Process =-
