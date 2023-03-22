@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="0.268-6.4341.jpeg" width="766" title="hover text">
+</p>
 # AutomaticProbeStation
 This is the code for operating the Remote Probing station. In my paper, I go over the operation and setup of the system.
 This is a description of the code for quick reference.
